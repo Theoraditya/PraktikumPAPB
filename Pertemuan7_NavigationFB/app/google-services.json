@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608233504699",
+    "project_id": "pertemuan8roomdatabase",
+    "storage_bucket": "pertemuan8roomdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608233504699:android:4d8994d6998b612c0c8e9e",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan8_roomdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRb2sSSPt5yZw4gu98B9ihME3VDyBI63k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
