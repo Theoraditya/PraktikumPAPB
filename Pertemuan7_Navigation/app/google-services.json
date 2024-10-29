@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540043278031",
+    "project_id": "pertemuan7-navigation",
+    "storage_bucket": "pertemuan7-navigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540043278031:android:116c60ca86f07dd4e6e9ba",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan7_navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjPRYwCbztpCmnVz7oZ-oLeWhfPSQHAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
